@@ -21,7 +21,7 @@ Please take a minute to read [Contributors guide](Contribution.md)
 
 ## Pull Request Process
 
-1. Ensure any install or build dependencies are removed before the end of the layer when doing a 
+1. Ensure any installation or build dependencies are removed before the end of the layer when doing a 
    build.
 2. Update the README.md with details of changes to the interface, this includes new environment 
    variables, exposed ports, useful file locations and container parameters.
@@ -30,10 +30,10 @@ Please take a minute to read [Contributors guide](Contribution.md)
 4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you 
    do not have permission to do that, you may request the second reviewer to merge it for you.
 
-* For Newbies to git.
+* For New Developers to git.
   * Search for the project of your interest.
   * Fork the repository.
-  * Go through the project and try to spot a bug or suggest any improvement. Else work on current issues of the repository if any. 
+  * Go through the project and try to find a bug or suggest any improvement. Else work on current issues of the repository if any. 
   * Open an issue to the current repository for your improvements or the bug you found.
   * Ask the moderator to assign you the task.
   * Engaging yourself in the task which is assigned to other individual is strictly discoureged.
